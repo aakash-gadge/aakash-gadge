@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aakash-gadge
+- 👀 I’m interested in Data Analysis, EDA, Data Science and Machine Learning
+- 🌱 I’m currently learning BigData
+- 📫 How to reach me: https://www.linkedin.com/in/aakashgadge/
